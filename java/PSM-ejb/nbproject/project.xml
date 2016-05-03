@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.j2ee.ejbjarproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2ee-ejbjarproject/3">
+            <name>PSM-ejb</name>
+            <minimum-ant-version>1.6.5</minimum-ant-version>
+            <included-library dirs="200">file.reference.cassandra-thrift-1.0.6.jar</included-library>
+            <included-library dirs="200">file.reference.commons-io-2.3.jar</included-library>
+            <included-library dirs="200">file.reference.hector-core-1.0-3.jar</included-library>
+            <included-library dirs="200">file.reference.jettison.jar</included-library>
+            <source-roots>
+                <root id="src.dir"/>
+            </source-roots>
+            <test-roots/>
+        </data>
+        <libraries xmlns="http://www.netbeans.org/ns/ant-project-libraries/1">
+            <definitions>..\lib\nblibraries.properties</definitions>
+        </libraries>
+    </configuration>
+</project>

@@ -1,0 +1,17 @@
+=======================LICENSE============================
+
+This software, PSM-Server, is limited to evaluation purposes only, non-commercial use.  For a full license for commercial use please contact me for licensing.  This software is protected by US Patent 9,269,079 and copyright law.  This license supersedes all other licensing rights that you may have, unless other licensing has been given to you, in writing, by the property owner or a person authorized to give you licensing rights.  Evaluation is limited to 160 days and may be extended upon request by you.  In the event this software is taken down from Github.com this license will expire in 160 days from removal of software.  If you do not agree with this license, don't download the software.  By downloading the software, you agree to abide by the terms of this license.
+
+
+REDISTRIBUTION PROHIBITED:
+You are not to redistribute this software, under any circumstances, you may link to http://github.com/psmessaging/psm-server for someone to download.  Please do not redistribute this software, as it is protected by Copyright laws, and is easily available from the github link as mentioned above.
+
+
+DISCLAIMER:
+This software is distributed WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  This software is also WITHOUT WARRANTY FOR A PARTICULAR PURPOSE and not anybody, but yourself, is responsible from any outages, damages, costs, or issues arising out of the use of this software.
+
+=============================END LICENSE===================
+
+Copyright 2011 Genzet.
+
+US Patent No. 9,269,079
